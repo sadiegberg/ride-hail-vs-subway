@@ -1,7 +1,7 @@
 # ride-hail-vs-subway: NYC Urban Mobility Before and After Congestion Pricing
 Comparison of ride-hailing and subway transportation.
 
-**Where and when do New Yorkers choose app-based cars over the subway, and what changed after congestion pricing?**
+**To Hail or Not to Hail? How New York Gets Around**
 
 An analysis of New York City's ride-hailing and subway activity from February 2019 through August 2026, examining temporal patterns, geographic differences, and changes following the introduction of congestion pricing.
 
