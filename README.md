@@ -100,7 +100,7 @@ A larger relative decline of approximately **17.7%** appeared in 2026. This late
 
 ## Interactive Dashboard
 
-[**Explore the interactive Tableau Public dashboard →**](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[**Explore the interactive Tableau Public dashboard →**] (https://public.tableau.com/app/profile/sadiegberg/viz/NYCrides_17927845037240/GrandCentral)
 
 ![Ride-Hail vs. Subway dashboard](images/ride-hail-vs-subway.png)
 
