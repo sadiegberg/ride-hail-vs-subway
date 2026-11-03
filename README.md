@@ -1,5 +1,5 @@
 # ride-hail-vs-subway: NYC Urban Mobility Before and After Congestion Pricing
-A data-driven comparison of ride-hailing and subway transportation.
+Comparison of ride-hailing and subway transportation.
 
 **Where and when do New Yorkers choose app-based cars over the subway, and what changed after congestion pricing?**
 
