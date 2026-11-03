@@ -18,7 +18,7 @@ The analysis distinguishes changes observed after congestion pricing from effect
 
 - Where and when does app-based ride-hailing activity concentrate relative to subway ridership?
 - How did ride-hailing and subway activity recover relative to 2019 levels?
-- Did ride-hailing activity change differently inside and outside the congestion pricing area after implementation?
+- Did ride-hailing activity actually change differently inside and outside the congestion pricing area _after_ implementation?
 - Did subway ridership exhibit a corresponding change?
 
 ## Data Sources
@@ -66,21 +66,17 @@ Zones were classified according to whether same-zone trips in March 2025 incurre
 - **Outside:** 216 zones
 - **Excluded:** 5 zones, including Governors Island, Ellis Island, Liberty Island, and unknown zones
 
-The before-and-after analysis compared inside and outside zones, using zone and month effects and zone-clustered standard errors. April–December 2024 served as the baseline period.
+The before-and-after analysis compared both inside and outside zones, using zone and month effects and zone-clustered standard errors. April–December 2024 served as the baseline period.
 
 ## Key Findings
 
 ### 1. Ride-hailing drop-offs declined relative to the rest of the city
 
-During the first year of congestion pricing, February–December 2025, ride-hail drop-offs in the pricing area declined by approximately **8.7% relative to the rest of the city**, with a reported 95% range of −9.8% to −7.6%.
+During the first year of congestion pricing, February–December 2025, ride-hail drop-offs in the pricing area declined by around **8.7% relative to the rest of the city**, with a reported 95% range of −9.8% to −7.6%.
 
-### 2. Subway entries showed no clear corresponding change
+### 2. The gap widened in 2026
 
-The analysis did not identify a clear change in subway entries associated with the pricing period. The observed ride-hailing pattern therefore did not translate into an equally clear change in subway activity in this analysis.
-
-### 3. The gap widened in 2026
-
-A larger relative decline of approximately **17.7%** appeared in 2026. This later divergence cannot be attributed to congestion pricing alone; other changes may have contributed.
+A larger relative decline of ~ **17.7%** appeared in 2026. This later divergence cannot be attributed to congestion pricing alone, though other changes may have contributed.
 
 ## Limitations
 
@@ -90,7 +86,7 @@ A larger relative decline of approximately **17.7%** appeared in 2026. This late
 - **Geographic classification:** Congestion pricing zone groups were defined using one month of fee data.
 - **Causal inference:** The analysis identifies relative changes and associations, not definitive proof that congestion pricing caused them.
 
-## Tools and Techniques
+## Tools and Techs
 
 - Tableau — geographic and temporal visualization
 - Data aggregation and comparative analysis
@@ -100,7 +96,7 @@ A larger relative decline of approximately **17.7%** appeared in 2026. This late
 
 ## Interactive Dashboard
 
-**Explore the interactive Tableau Public dashboard at** https://public.tableau.com/app/profile/sadiegberg/viz/NYCrides_17927845037240/GrandCentral
+**Explore my Tableau Public dashboard at** https://public.tableau.com/app/profile/sadiegberg/viz/NYCrides_17927845037240/GrandCentral
 
 ![Ride-Hail vs. Subway dashboard](Grand-Central.png)
 
